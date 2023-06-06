@@ -1,0 +1,63 @@
+.tradicha {
+
+    background-color: #C2FCF3;
+    text-align: center;
+    padding: 20px;
+}
+.kod p{
+    margin: 0 7px;
+}
+img {
+    width: 100%;
+
+}
+.footer{
+    background-color: rgb(56, 56, 56);
+    color: aliceblue;
+    padding: 30px 0;
+}
+.socio {
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 0 7px;
+
+    color: rgb(185, 185, 185);
+}
+
+.socio:hover {
+    color: aqua;
+}
+
+.gg p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:3rem;
+
+}
+
+body {
+    margin: 0;
+}
+
+.dd {
+    box-shadow: black;
+
+}
+.nav-link:hover{
+    color: green;
+}
+.fon{
+        background-image:url(fon-2.jpg);
+        padding: 40px 0;
+
+}
+.l{font-family: 'Philosopher', sans-serif;
+}
+
+    
+p{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 600;
+}
+h1{
+    font-family: 'Mea Culpa', cursive;
+}
